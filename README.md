@@ -17,6 +17,7 @@ MongoDB is a popular choice for many social networks due to its speed with large
 
 We have built an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. I used Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to using the Express.js and Mongoose packages, I use the Moment.js package to format time.
 
+The Repository is hosted at https://github.com/anitapeppercorn/Social-Network-API
 Because this application won’t be deployed, there is walkthrough video that demonstrates functionality and all of the acceptance criteria being met. 
 
 ## Demo & Models
