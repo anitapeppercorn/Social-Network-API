@@ -20,8 +20,8 @@ We have built an API for a social network web application where users can share 
 Because this application won’t be deployed, there is walkthrough video that demonstrates functionality and all of the acceptance criteria being met. 
 
 ## Demo & Models
-![DemoVideo](https://youtu.be/D1Ay1BSe2_I) - Video 1
-![DemoVideo](https://youtu.be/XW04jTC6l2I) - Video 2
+https://youtu.be/D1Ay1BSe2_I - Video 1
+https://youtu.be/XW04jTC6l2I - Video 2
 
 
 ## User Story
